@@ -1,0 +1,327 @@
+.iphone13{
+    position: relative;
+    width: 428px;
+    height: 926px;
+    
+    background: #FFFFFF;
+    }
+.menu{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 18px;
+top: 48px;
+}
+.perfil{
+position: absolute;
+width: 34px;
+height: 34px;
+left: 374px;
+top: 43px;
+
+background: url(.jpg);
+border-radius: 50px;
+}
+.title{
+    position: absolute;
+width: 196px;
+height: 23px;
+left: 20px;
+top: 102px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.barSearch{
+    margin-top: 21px;
+ box-shadow: 5px 4px 10px;
+background-color: #FFFFFF;
+width: 316px;
+height: 50px;
+left: 18px;
+top: 146px; 
+position: absolute;
+border-radius: 1rem;
+float: left;
+flex-direction: row;
+box-shadow: 5px 4px 10px rgba(0, 0, 0, 0.15);
+
+}
+.search{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 368.89px;
+top: 175.78px;
+float: right;
+border-radius: 0.5rem;
+
+}
+.boxSearch{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 367.89px;
+top: 168.78px;
+background-color: #FF7A1A;
+border-radius: 0.5rem;
+}
+.text{
+    position: absolute;
+width: 144px;
+height: 16px;
+left: 40px;
+top: 168px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #B5B5B5;
+}
+.boxPlane{
+    background-color: #FF7A1A;
+position: absolute;
+width: 73px;
+height: 73px;
+left: 20px;
+top: 239px;
+border-radius: 10px;
+
+}
+.flight{
+    position: absolute;
+    top: 248px;
+    left: 41px;
+    width: 30px;
+    height: 30px;
+}
+.textFlight{
+    position: absolute;
+width: 35px;
+height: 16px;
+left: 46px;
+top: 288px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+color: #FFFFFF
+}
+.boxHotel{
+    position: absolute;
+    width: 73px;
+    height: 73px;
+    left: 125px;
+    top: 256px;
+    background-color:#9571F6;
+    border-radius: 10px;
+}
+.hotel{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 144px;
+top: 258px;
+}
+.textHotel{
+    position: absolute;
+width: 34px;
+height: 16px;
+left: 144px;
+top: 288px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+.boxFood{
+    position: absolute;
+    width: 73px;
+    height: 73px;
+    left: 230px;
+    top: 256px;
+    background-color: #FF9156;
+    border-radius: 10px;
+}
+.food{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 250px;
+top: 264px;
+}
+.textFood{
+    position: absolute;
+width: 32px;
+height: 16px;
+left: 251px;
+top: 288px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+.boxEvent{
+    position: absolute;
+width: 73px;
+height: 73px;
+left: 335px;
+top: 256px;
+background-color: #6168E6;
+border-radius: 10px;
+}
+.event{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 350px;
+top: 263px;
+}
+.textEvent{
+    position: absolute;
+width: 48px;
+height: 48px;
+left: 353px;
+top: 288px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+.all{
+    position: absolute;
+width: 19px;
+height: 19px;
+left: 20px;
+top: 353px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.popular{
+    position: absolute;
+width: 63px;
+height: 21px;
+left: 116px;
+top: 350px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+
+color: #FF7A1A;
+}
+.new{
+    position: absolute;
+width: 32px;
+height: 19px;
+left: 251px;
+top: 353px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.top{
+    position: absolute;
+width: 49px;
+height: 19px;
+left: 359px;
+top: 353px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.place1{
+    position: absolute;
+    width: 320px;
+    height: 411px;
+    left: -265px;
+    top: 422px;
+}
+.place2{
+    position: absolute;
+    width: 320px;
+    height: 411px;
+    left: 82px;
+    top: 422px;
+}
+.home{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 34px;
+top: 883px;
+}
+.person{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 144px;
+top: 883px;
+}
+.chat{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 254px;
+top: 883px;
+
+}
+.bookmark{
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 364px;
+top: 883px;
+
+}
+.arrow{
+    position: absolute;
+width: 35px;
+height: 35px;
+left:20px;
+top: 650px;
+
+transform: rotate(179.64deg);
+
+
+}
